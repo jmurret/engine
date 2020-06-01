@@ -46,4 +46,3 @@ jobs:
       - run:
           name: lint
           command: npm run lint
-
